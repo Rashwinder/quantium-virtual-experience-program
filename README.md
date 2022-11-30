@@ -1,5 +1,5 @@
 # Quantium Data Analytics Virtual Experience Program
-This repository holds my solutions to my attempt at Quantium's Data Analytics Virtual Experience Program, which could be found here: https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics
+This repository holds my attempt at Quantium's [Data Analytics Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics).
 
 ## Introduction
 Quantium is a global leader in Data Science and Artificial Intelligence (AI) that was founded back in 2002. As of moment of writing, they have 11 offices worldwide, employing over 800 people. They partner with clients across different sectors, helping them maximize their potential, while addressing some of their most pressing challenges that they may face. Through this program, I had the opportunity to act as a data analyst at Quantium, performing tasks such as data validation, visualisation, statistical testing and more.
